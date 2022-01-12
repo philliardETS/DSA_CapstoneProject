@@ -7,7 +7,7 @@ import plotly.express as px
 # USING PROVIDED CSV FILE OF DATA TO PRODUCE VISUALIZATIONS - ALSO IN VOILA
 
 #import necessary libraries
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import plotly.graph_objs as go
 
 #load in the science data using pandas
