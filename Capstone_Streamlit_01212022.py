@@ -17,7 +17,7 @@ pio.templates.default="ggplot2"
 	
 #load in the science data using pandas
 df = pd.read_csv("data/data_capstone_dsa2021_2022.csv")
-df=pd.DataFrame(data)
+df=pd.DataFrame(df)
 #df
 
 # sum_score, gender, home_computer are clean.  
