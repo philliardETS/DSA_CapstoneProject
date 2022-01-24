@@ -16,7 +16,7 @@ import plotly.graph_objs as go
 pio.templates.default="ggplot2"
 	
 #load in the science data using pandas
-data = pd.read_csv("data_capstone_dsa2021_2022.csv")
+df = pd.read_csv("data/data_capstone_dsa2021_2022.csv")
 df=pd.DataFrame(data)
 #df
 
